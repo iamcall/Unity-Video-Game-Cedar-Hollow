@@ -9,7 +9,7 @@ Even though I’m not a gamer myself, I saw this as a fun way to **hone my codin
 - 🎨 **Art**: Contributing original artwork alongside programming.  
 - 🤝 **Teamwork**: Joined fellow students to design and build the game together.  
 
-Our mission is to **entertain while educating** players about climate responsibility, sustainable growth, and caring for the community:contentReference[oaicite:1]{index=1}.
+Our mission is to **entertain while educating** players about climate responsibility, sustainable growth, and caring for the community.
 
 ---
 
@@ -22,7 +22,7 @@ Choices you make impact:
 - 👫 Relationships with townsfolk  
 - 🐝 The survival of your bees and forest  
 
-The game is structured in **15 chapters across 3 acts**, with each chapter centered on helping a town member and uncovering more of the mystery:contentReference[oaicite:2]{index=2}.
+The game is structured in **15 chapters across 3 acts**, with each chapter centered on helping a town member and uncovering more of the mystery.
 
 ---
 
@@ -30,7 +30,7 @@ The game is structured in **15 chapters across 3 acts**, with each chapter cente
 - ✅ Story developed and concept tested  
 - 🛠️ Currently designing Chapters 1–3 in Unity  
 - 🎯 Targeting **Beta Release (Act I)** in mid-2025  
-- 📈 Expanding scope toward Acts II & III by 2026:contentReference[oaicite:3]{index=3}
+- 📈 Expanding scope toward Acts II & III by 2026
 
 ---
 
@@ -42,7 +42,7 @@ For more details, check out our deck:
 
 ## Team
 - **Brennon Call** – CPO + Writer  
-- **Aubrey Coons** – CCO + Artist  
+- **Aubrey Coons** – CCO + Artist + Developer
 - **Jake Anderson** – CTO + Developer  
 
 ---
